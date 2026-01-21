@@ -1,4 +1,4 @@
-Hi, I’m Nik 👋
+## Hi, I’m Nik 👋
 
 I am a young programmer passionate about building practical projects and improving my coding skills.  
 
