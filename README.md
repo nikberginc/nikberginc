@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Nik 👋
 
-<!--
-**Dizzlow17/Dizzlow17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a young programmer passionate about building practical projects and improving my coding skills.  
 
-Here are some ideas to get you started:
+Currently working on Python projects:  
+- 🖼️ Face detection on images  
+- 🎥 Real-time face tracking on webcam  
+- 🤖 OpenCV DNN models for age/gender estimation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring programming areas such as:  
+- 🔐 Encryption and security concepts  
+- 📱 App development and time-saving programs  
+- ☕ Early Java projects  
+
+In the future, I aim to learn and build projects in:  
+- 🛠️ C++, YOLO object detection, and Arduino basics
+
+Tools & Skills: Python, OpenCV, NumPy, Git, GitHub, Java (beginner)
