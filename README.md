@@ -1,63 +1,69 @@
+# Hi, I'm Nik Berginc! 👋
 
-# Hi, I'm Nik! 👋
+**Computer Science Student | Python • Computer Vision • Robotics**
 
-💻 **Computer Science Student | Developer | Technology Enthusiast**
+I'm a computer science student from Slovenia, interested in software development, computer vision, AI, and robotics.
 
-I'm a computer science student with a passion for programming, technology, and turning ideas into real projects.
+Python is my main programming language, but I also work with Java, HTML, and CSS. I enjoy building projects that range from simple desktop applications to computer vision systems and experiments involving hardware.
 
-I enjoy experimenting with software, AI, and hardware - especially when I can combine them to build something practical. Most of my experience comes from personal projects, where I continuously challenge myself to learn new technologies and solve problems independently.
+I use GitHub to share my projects and document how my programming skills have developed over time.
 
-## 🚀 What I'm Currently Working On
+## Currently Working On
 
-- 🤖 **TB (Track Buddy)** — Developing a human-tracking robotic system combining YOLO object detection, Python, Arduino, and motor control.
-- 🎙️ **Okey System** — Building a local AI voice assistant using speech recognition, text-to-speech, and language models.
-- 🔐 **Cybersecurity** — Exploring encryption, authentication, and secure software development.
+**TB (Track Buddy)** — A human-tracking robotic system combining YOLO object detection, Python, Arduino, and motor control.
 
-## 🛠️ Technologies & Skills
+**Okey System** — A local AI voice assistant using speech recognition, text-to-speech, and locally running language models.
+
+**Web Development** — Building websites with HTML and CSS while developing my frontend skills.
+
+## Selected Projects
+
+These are some of the projects I've developed:
+
+| Project | Description |
+|---|---|
+| [YOLO Human Tracking](https://github.com/nikberginc/YOLO-Human-Tracking) | Real-time human detection, target selection, and position-based tracking using YOLOv8. |
+| [Face Matching & Analysis](https://github.com/nikberginc/Face-Matching-Analyzer) | Face matching across images with age-group and gender-category estimation. |
+| [Webcam Face Detection](https://github.com/nikberginc/Webcam-Face-Detection) | Real-time face detection and classification using OpenCV DNN. |
+| [Image Similarity Checker](https://github.com/nikberginc/Image-Similarity-Checker) | Image comparison using perceptual hashing and Hamming distance. |
+| [Log-In](https://github.com/nikberginc/Log-In) | A Java command-line registration and login system with SHA-256 password hashing. |
+| [NutshellMusic](https://github.com/nikberginc/NutshellMusic) | A Python desktop music player built with Tkinter and Pygame. |
+
+My repositories also include smaller utilities and earlier experiments. I've kept these projects to show my progress, including their original implementations and documented limitations.
+
+## Technologies & Tools
 
 ### Programming Languages
 - **Python** — My primary language for personal projects, automation, and computer vision.
-- **Java** — Scholl programming and application development.
-- **HTML & CSS** — Building interactive websites and web interfaces.
+- **Java** — School coursework and application development.
+- **HTML & CSS** — Website structure, layouts, and styling.
 
 ### Libraries & Technologies
 - OpenCV, YOLO, NumPy
 - Tkinter, SQLite
 - Arduino and serial communication
-- Git & GitHub
-- REST APIs and local AI models
+- Local AI models and APIs
 
 ### Development Tools
 - Visual Studio Code
 - NetBeans
-- Windows
+- Git & GitHub
 - Arduino IDE
 
-## 📂 My Projects
+## Learning & Interests
 
-My repositories include projects developed throughout my programming journey, ranging from simple utilities to more advanced experiments.
+I'm currently improving my skills in:
 
-Some areas I've explored include:
-
-- 🧠 Computer vision, face recognition, and object tracking
-- 🤖 AI assistants and robotics
-- 🔐 Encryption and authentication systems
-- 🖥️ Desktop applications and automation tools
-- 🌍 Web development
-- ☕ Java applications and algorithms
-
-I keep my older projects available to document my progress, including their limitations and what I learned while developing them.
-
-## 📚 Currently Learning & Exploring
-
-- Advanced Python programming and software architecture
-- AI, machine learning, and computer vision
+- Python programming and software architecture
+- Computer vision and AI
 - Cybersecurity and networking
 - Robotics and hardware integration
-- C++ and lower-level programming
+- Web development
 
-## 🎯 My Goal
+I'm also interested in exploring C++ and lower-level programming in the future.
 
-My long-term goal is to become a professional software developer, continue expanding my technical knowledge, and work on ambitious projects that combine software with real-world applications.
+## Goals
 
-I believe the best way to learn programming is to **build, experiment, make mistakes, and improve**.
+My long-term goal is to work professionally in software development and continue building projects that combine software with real-world applications.
+
+I'm particularly interested in computer vision, AI systems, and robotics.
