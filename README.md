@@ -2,6 +2,14 @@
 
 **Computer Science Student | Python • Computer Vision • Robotics**
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-253B80?style=flat-square&logo=ultralytics&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+
 I'm a computer science student from Slovenia, interested in software development, computer vision, AI, and robotics.
 
 Python is my main programming language, but I also work with Java, HTML, and CSS. I enjoy building projects that range from simple desktop applications to computer vision systems and experiments involving hardware.
